@@ -56,7 +56,7 @@ Utility:
 <!-- RELASES NOTES -->
 ### RELASES NOTES
 
-* V2.0 - Add buttom for jump and reset.
+* V2.0 - Added Buttom's of JUMP and RESTART.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
